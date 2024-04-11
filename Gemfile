@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "devise"
+
+#画像投稿
+gem "carrierwave"
+gem "mini_magick"
+
+gem 'activestorage', '~> 7.0.8.1'
